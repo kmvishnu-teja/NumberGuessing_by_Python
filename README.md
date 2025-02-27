@@ -8,9 +8,9 @@ The Number Guessing Game is a simple interactive console-based game where the pl
 
 1️⃣ Prerequisites
 
-Make sure you have Python 3 installed on your system. You can check if Python is installed by running:
+Make sure you have Python new version installed on your system. You can check if Python is installed by running:
 
-python --version
+Jupyter Notebook
 
 If Python is not installed, download and install it from Python's official website.
 
